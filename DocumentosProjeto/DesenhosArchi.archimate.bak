@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="3SIA-SI-Suporte-Dilan" id="id-f88597eee54b4a67a26413e3c1acdf70" version="4.9.0">
   <folder name="Strategy" id="id-15ea40c3deb3482396fbf7e447efb00c" type="strategy"/>
-  <folder name="Business" id="id-02a8c40293c049c7ad0a277d33e6e1f9" type="business">
-    <element xsi:type="archimate:BusinessProcess" name="Recepção de chamado tectnicos" id="id-c10931b7667f4f1bbddf9d229712e60f"/>
-    <element xsi:type="archimate:BusinessProcess" name="Solução de chamados" id="id-270fe76d6355493bb572dfc7602e0437"/>
-    <element xsi:type="archimate:BusinessProcess" name="Tentativa do nivel de chamado " id="id-efa884c694e9446d95e5920f777aa7b0"/>
-  </folder>
+  <folder name="Business" id="id-02a8c40293c049c7ad0a277d33e6e1f9" type="business"/>
   <folder name="Application" id="id-bd31fef1c5434c118777ffaf236dc13e" type="application"/>
   <folder name="Technology &amp; Physical" id="id-a1a9e3977b2f4e5e95c30d9b9e34ec8f" type="technology"/>
   <folder name="Motivation" id="id-34b84b74c858411fab8dad9d9688fa1d" type="motivation">
@@ -255,15 +251,6 @@
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-58e7f7df644b46f4bc251c37dc725f98" targetConnections="id-bb3c926591994d0ea9737f2887f3dff3" archimateElement="id-4f190748272e4a508dbacc0133566dee">
         <bounds x="1944" y="896" width="140" height="160"/>
-      </child>
-      <child xsi:type="archimate:DiagramObject" id="id-d70416e1a74d4fc1a83774b14efdf6e4" archimateElement="id-c10931b7667f4f1bbddf9d229712e60f">
-        <bounds x="274" y="1629" width="120" height="55"/>
-      </child>
-      <child xsi:type="archimate:DiagramObject" id="id-a0189c662ea046edaca2a6fcd7ffd2ce" archimateElement="id-270fe76d6355493bb572dfc7602e0437">
-        <bounds x="589" y="1629" width="120" height="55"/>
-      </child>
-      <child xsi:type="archimate:DiagramObject" id="id-f427cf9340ee46cf8f2e7c2e7740893a" archimateElement="id-efa884c694e9446d95e5920f777aa7b0">
-        <bounds x="896" y="1640" width="120" height="55"/>
       </child>
     </element>
   </folder>
